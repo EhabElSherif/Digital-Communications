@@ -31,9 +31,9 @@ The channel used is an additive white gaussian noise (AWGN).</p>
 ### = Block diagram:
 ![](/BPSK.png)
 ### = Modulated message before adding noise:
-![](/BPSK_Before_noise-page-001.png)
+![](/BPSK_Before_noise.png)
 ### = Modulated message after adding noise:
-![](/BPSK_after_noise-page-001.png)
+![](/BPSK_after_noise.png)
 ### = Bit error rate diagram:
 ![](/BER_BPSK.png)
 #
@@ -66,9 +66,9 @@ The channel used is an additive white gaussian noise (AWGN).
 ### = Block diagram:
 ![](/QPSK.png)
 ### = Modulated message before adding noise:
-![](/QPSK_Before_noise-page-001.png)
+![](/QPSK_Before_noise.png)
 ### = Modulated message after adding noise:
-![](/QPSK_after_noise-page-001.png)
+![](/QPSK_after_noise.png)
 ### = Bit error rate diagram:
 ![](/BER_QPSK.png)
 #
@@ -100,9 +100,9 @@ The channel used is an additive white gaussian noise (AWGN).
 ### = Block diagram:
 ![](/FSK.png)
 ### = Modulated message before adding noise:
-![](/FSK_Before_noise-page-001.png)
+![](/FSK_Before_noise.png)
 ### = Modulated message after adding noise:
-![](/FSK_after_noise-page-001.png)
+![](/FSK_after_noise.png)
 ### = Bit error rate diagram:
 ![](/BER_FSK.png)
 #
@@ -134,9 +134,9 @@ The channel used is an additive white gaussian noise (AWGN).
 ### = Block diagram:
 ![](/QAM_16.png)
 ### = Modulated message before adding noise:
-![](/QAM_16_Before_noise-page-001.png)
+![](/QAM_16_Before_noise.png)
 ### = Modulated message after adding noise:
-![](/QAM_16_after_noise-page-001.png)
+![](/QAM_16_after_noise.png)
 ### = Bit error rate diagram:
 ![](/BER_QAM_16.png)
 ## D.2) 64QAM:
@@ -161,8 +161,8 @@ The channel used is an additive white gaussian noise (AWGN).
 ### = Block diagram:
 ![](/QAM_64.png)
 ### = Modulated message before adding noise:
-![](/QAM_64_Before_noise-page-001.png)
+![](/QAM_64_Before_noise.png)
 ### = Modulated message after adding noise:
-![](/QAM_64_after_noise-page-001.png)
+![](/QAM_64_after_noise.png)
 ### = Bit error rate diagram:
 ![](/BER_QAM_64.png)
