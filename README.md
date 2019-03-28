@@ -29,13 +29,13 @@ The channel used is an additive white gaussian noise (AWGN).</p>
 <b>4. Modulation Order=2</b>
 
 ### = Block diagram:
-![](/BPSK.png)
+![](/BPSK/BPSK.png)
 ### = Modulated message before adding noise:
-![](/BPSK_Before_noise.png)
+![](/BPSK/BPSK_Before_noise.png)
 ### = Modulated message after adding noise:
-![](/BPSK_after_noise.png)
+![](/BPSK/BPSK_after_noise.png)
 ### = Bit error rate diagram:
-![](/BER_BPSK.png)
+![](/BPSK/BER_BPSK.png)
 #
 ## B) Quadrature Phase Shift Keying Modulation - QPSK
 ### = Definition:
@@ -64,13 +64,13 @@ The channel used is an additive white gaussian noise (AWGN).
 <b>4. Modulation Order=4</b>
 
 ### = Block diagram:
-![](/QPSK.png)
+![](/QPSK/QPSK.png)
 ### = Modulated message before adding noise:
-![](/QPSK_Before_noise.png)
+![](/QPSK/QPSK_Before_noise.png)
 ### = Modulated message after adding noise:
-![](/QPSK_after_noise.png)
+![](/QPSK/QPSK_after_noise.png)
 ### = Bit error rate diagram:
-![](/BER_QPSK.png)
+![](/QPSK/BER_QPSK.png)
 #
 ## C) Frequency Shift Keying Modulation - FSK
 ### = Definition:
@@ -98,13 +98,13 @@ The channel used is an additive white gaussian noise (AWGN).
 <b>4. Modulation Order=8</b>
 
 ### = Block diagram:
-![](/FSK.png)
+![](/FSK/FSK.png)
 ### = Modulated message before adding noise:
-![](/FSK_Before_noise.png)
+![](/FSK/FSK_Before_noise.png)
 ### = Modulated message after adding noise:
-![](/FSK_after_noise.png)
+![](/FSK/FSK_after_noise.png)
 ### = Bit error rate diagram:
-![](/BER_FSK.png)
+![](/FSK/BER_FSK.png)
 #
 ## D) Quadrature Amplitude Modulation:
 ### = Definition:
@@ -132,13 +132,13 @@ The channel used is an additive white gaussian noise (AWGN).
 <b>4. Modulation Order=16</b>
 
 ### = Block diagram:
-![](/QAM_16.png)
+![](/QAM/QAM_16.png)
 ### = Modulated message before adding noise:
-![](/QAM_16_Before_noise.png)
+![](/QAM/QAM_16_Before_noise.png)
 ### = Modulated message after adding noise:
-![](/QAM_16_after_noise.png)
+![](/QAM/QAM_16_after_noise.png)
 ### = Bit error rate diagram:
-![](/BER_QAM_16.png)
+![](/QAM/BER_QAM_16.png)
 ## D.2) 64QAM:
 <b>1. Random Integer Generator</b>
 * Initial seed = 37
@@ -159,10 +159,10 @@ The channel used is an additive white gaussian noise (AWGN).
 <b>4. Modulation Order=64</b>
 
 ### = Block diagram:
-![](/QAM_64.png)
+![](/QAM/QAM_64.png)
 ### = Modulated message before adding noise:
-![](/QAM_64_Before_noise.png)
+![](/QAM/QAM_64_Before_noise.png)
 ### = Modulated message after adding noise:
-![](/QAM_64_after_noise.png)
+![](/QAM/QAM_64_after_noise.png)
 ### = Bit error rate diagram:
-![](/BER_QAM_64.png)
+![](/QAM/BER_QAM_64.png)
